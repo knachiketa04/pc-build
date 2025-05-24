@@ -5,6 +5,7 @@
 ## 📋 Table of Contents
 - [🎯 Build Overview](#-build-overview)
 - [💰 Budget & Pricing](#-budget--pricing)
+- [📝 Research Guide](references/pc-build-research-guide.md)
 - [🔧 Components](#-components)
   - [⚡ CPU](#-cpu)
   - [🧠 Memory (RAM)](#-memory-ram)
@@ -57,177 +58,14 @@
 
 ## 🔧 Components
 
-### ⚡ CPU
-**Selected:** [CPU Model Name](link-to-product)
-
-#### 📝 Specifications
-- **Cores/Threads:** X cores, Y threads
-- **Base/Boost Clock:** X.X GHz / Y.Y GHz
-- **TDP:** XXX W
-- **Socket:** Socket Type
-
-#### 🎯 Why This CPU?
-<!-- Explain your reasoning for selecting this CPU -->
-
-#### 🥊 Comparison with Alternatives
-| CPU | Cores/Threads | Clock Speed | Price | Performance Score |
-|-----|---------------|-------------|-------|-------------------|
-| **Selected CPU** | X/Y | X.X/Y.Y GHz | $XXX | ⭐⭐⭐⭐⭐ |
-| Alternative 1 | X/Y | X.X/Y.Y GHz | $XXX | ⭐⭐⭐⭐ |
-| Alternative 2 | X/Y | X.X/Y.Y GHz | $XXX | ⭐⭐⭐ |
-
-#### 📊 Benchmarks
-<!-- Add relevant benchmark scores -->
-
----
-
-### 🧠 Memory (RAM)
-**Selected:** [RAM Model Name](link-to-product)
-
-#### 📝 Specifications
-- **Capacity:** XX GB (X x Y GB)
-- **Speed:** DDR4/DDR5-XXXX
-- **Timings:** XX-XX-XX-XX
-- **Voltage:** X.X V
-
-#### 🎯 Why This RAM?
-<!-- Explain your reasoning -->
-
-#### 🥊 Comparison with Alternatives
-| RAM Kit | Capacity | Speed | Timings | Price | Value Score |
-|---------|----------|-------|---------|-------|-------------|
-| **Selected RAM** | XX GB | XXXX | XX-XX-XX | $XXX | ⭐⭐⭐⭐⭐ |
-| Alternative 1 | XX GB | XXXX | XX-XX-XX | $XXX | ⭐⭐⭐⭐ |
-| Alternative 2 | XX GB | XXXX | XX-XX-XX | $XXX | ⭐⭐⭐ |
-
----
-
-### 💾 Storage
-**Primary:** [Primary Storage](link-to-product)
-**Secondary:** [Secondary Storage](link-to-product) *(if applicable)*
-
-#### 📝 Specifications
-**Primary Drive:**
-- **Type:** NVMe SSD / SATA SSD / HDD
-- **Capacity:** XXX GB/TB
-- **Interface:** PCIe Gen X / SATA III
-- **Sequential Read/Write:** XXXX/XXXX MB/s
-
-#### 🎯 Why This Storage Solution?
-<!-- Explain your storage strategy -->
-
-#### 🥊 Comparison with Alternatives
-| Drive | Type | Capacity | Speed | Price/GB | Reliability |
-|-------|------|----------|-------|----------|-------------|
-| **Selected Drive** | Type | XXX GB | XXXX MB/s | $X.XX | ⭐⭐⭐⭐⭐ |
-| Alternative 1 | Type | XXX GB | XXXX MB/s | $X.XX | ⭐⭐⭐⭐ |
-| Alternative 2 | Type | XXX GB | XXXX MB/s | $X.XX | ⭐⭐⭐ |
-
----
-
-### 🎮 Graphics Card (GPU)
-**Selected:** [GPU Model Name](link-to-product)
-
-#### 📝 Specifications
-- **GPU:** GPU Chip
-- **VRAM:** XX GB GDDR6/6X
-- **Base/Boost Clock:** XXXX/XXXX MHz
-- **TDP:** XXX W
-- **Outputs:** List of ports
-
-#### 🎯 Why This GPU?
-<!-- Explain your GPU selection reasoning -->
-
-#### 🥊 Comparison with Alternatives
-| GPU | VRAM | Performance | Price | Efficiency |
-|-----|------|-------------|-------|------------|
-| **Selected GPU** | XX GB | Score | $XXX | ⭐⭐⭐⭐⭐ |
-| Alternative 1 | XX GB | Score | $XXX | ⭐⭐⭐⭐ |
-| Alternative 2 | XX GB | Score | $XXX | ⭐⭐⭐ |
-
-#### 🎮 Gaming Performance Targets
-| Resolution | Target FPS | Settings | Expected Performance |
-|------------|------------|----------|---------------------|
-| 1080p | XXX FPS | Ultra | ✅ Achievable |
-| 1440p | XXX FPS | High | ✅ Achievable |
-| 4K | XXX FPS | Medium | ⚠️ Depends on game |
-
----
-
-### 🔌 Motherboard
-**Selected:** [Motherboard Model](link-to-product)
-
-#### 📝 Specifications
-- **Chipset:** Chipset Name
-- **Socket:** Socket Type
-- **Form Factor:** ATX/mATX/Mini-ITX
-- **RAM Slots:** X slots, max XX GB
-- **Expansion Slots:** PCIe configuration
-- **I/O:** USB ports, audio, networking
-
-#### 🎯 Why This Motherboard?
-<!-- Explain your motherboard selection -->
-
----
-
-### 🏠 Case
-**Selected:** [Case Model Name](link-to-product)
-
-#### 📝 Specifications
-- **Form Factor:** Full Tower/Mid Tower/Mini-ITX
-- **Dimensions:** L x W x H
-- **GPU Clearance:** XXX mm
-- **CPU Cooler Clearance:** XXX mm
-- **Drive Bays:** X x 3.5", Y x 2.5"
-
-#### 🎯 Why This Case?
-<!-- Explain your case selection criteria -->
-
----
-
-### ❄️ Cooling
-**CPU Cooler:** [Cooler Model Name](link-to-product)
-**Case Fans:** [Fan Configuration](link-to-fans) *(if applicable)*
-
-#### 📝 Specifications
-**CPU Cooler:**
-- **Type:** Air/AIO Liquid
-- **Size:** XXX mm
-- **TDP Rating:** XXX W
-- **Noise Level:** XX dBA
-
-#### 🎯 Why This Cooling Solution?
-<!-- Explain your cooling strategy -->
-
-#### 🌡️ Temperature Targets
-| Component | Idle Temp | Load Temp | Max Safe Temp |
-|-----------|-----------|-----------|---------------|
-| CPU | XX°C | XX°C | XX°C |
-| GPU | XX°C | XX°C | XX°C |
-
----
-
-### ⚡ Power Supply Unit (PSU)
-**Selected:** [PSU Model Name](link-to-product)
-
-#### 📝 Specifications
-- **Wattage:** XXX W
-- **Efficiency:** 80+ Rating
-- **Modular:** Full/Semi/Non-modular
-- **Form Factor:** ATX/SFX
-- **Warranty:** X years
-
-#### 🎯 Why This PSU?
-<!-- Explain your PSU selection -->
-
-#### ⚡ Power Consumption Analysis
-| Component | Idle | Load | Peak |
-|-----------|------|------|------|
-| CPU | XX W | XX W | XX W |
-| GPU | XX W | XX W | XX W |
-| Other | XX W | XX W | XX W |
-| **Total** | **XX W** | **XX W** | **XX W** |
-| **PSU Headroom** | XX% | XX% | XX% |
+- **CPU:** [AMD Ryzen 7 7800X3D](components/cpu.md)
+- **Memory (RAM):** [G.Skill Trident Z5 RGB 32GB DDR5-6000](components/ram.md)
+- **Storage:** [Samsung 990 Pro 2TB NVMe SSD](components/storage.md)
+- **Graphics Card (GPU):** [NVIDIA GeForce RTX 4080 Super](components/gpu.md)
+- **Motherboard:** [ASUS ROG Strix X670E-E Gaming WiFi](components/motherboard.md)
+- **Case:** [Fractal Design Meshify 2](components/case.md)
+- **Cooling:** [Noctua NH-D15 chromax.black](components/cooling.md)
+- **Power Supply Unit (PSU):** [Corsair RM850x Shift 850W 80+ Gold](components/psu.md)
 
 ---
 
@@ -324,7 +162,7 @@
 
 ## 📚 Resources & References
 
-- [📝 PC Build Research Guide](RESEARCH_GUIDE.md)
+- [📝 PC Build Research Guide](references/pc-build-research-guide.md)
 - [PC Part Picker Build](link-to-pcpartpicker)
 - [Component Reviews & Benchmarks](#)
 - [Build Guides & Tutorials](#)
