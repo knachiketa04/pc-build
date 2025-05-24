@@ -324,6 +324,7 @@
 
 ## 📚 Resources & References
 
+- [📝 PC Build Research Guide](RESEARCH_GUIDE.md)
 - [PC Part Picker Build](link-to-pcpartpicker)
 - [Component Reviews & Benchmarks](#)
 - [Build Guides & Tutorials](#)
