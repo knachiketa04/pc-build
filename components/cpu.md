@@ -3,6 +3,7 @@
 ## Details
 - **Link:** [Product Page](https://www.amd.com/en/products/processors/desktops/ryzen/9000-series/amd-ryzen-9-9950x3d.html)
 - **MSRP (Converted to SGD)**: $897.31
+
 ## Why Selected
 - 3D V-cache
 - High core amount provides excellent performance in productivity tasks
@@ -20,6 +21,8 @@
 ## Considered Competitors
 
 ### AMD Ryzen 7 9800X3D
+- **Link**: [Product Page](https://www.amd.com/en/products/processors/desktops/ryzen/9000-series/amd-ryzen-7-9800x3d.html)
+- - **MSRP (Converted to SGD)**: $615.44
 - **Cores/Threads:** 8/16
 - **Base/Max Boost Clock:** 4.7 GHz / 5.2 GHz
 - **TDP:** 120W
@@ -29,6 +32,8 @@
 - **Reasoning:** Great pick for gaming, but not picked as it lacks in cores for video editing/productivity tasks.
 
 ### Intel Core i9 14900K
+- **Link**: [Product Page](https://www.intel.com/content/www/us/en/products/sku/236773/intel-core-i9-processor-14900k-36m-cache-up-to-6-00-ghz/specifications.html)
+- **MSRP (Converted to SGD)**: $756.77
 - **Cores/Threads:** 24/32
 - **Base/Max Boost Clock:**
     - Performance Cores: 3.2 GHz / 5.6 GHz
