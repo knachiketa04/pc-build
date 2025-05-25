@@ -40,19 +40,19 @@
 
 ---
 
-## 💰 Budget & Pricing
+## 💰 Budget & Pricing (SGD)
 
 | Category | Budget | Actual | Savings/Overage |
 |----------|--------|--------|------------------|
-| CPU | $XXX | $XXX | $XXX |
-| GPU | $XXX | $XXX | $XXX |
-| RAM | $XXX | $XXX | $XXX |
-| Storage | $XXX | $XXX | $XXX |
-| Motherboard | $XXX | $XXX | $XXX |
-| Case | $XXX | $XXX | $XXX |
-| Cooling | $XXX | $XXX | $XXX |
-| PSU | $XXX | $XXX | $XXX |
-| **Total** | **$XXX** | **$XXX** | **$XXX** |
+| CPU | $900 | $XXX | $XXX |
+| GPU | $2000 | $XXX | $XXX |
+| RAM | $400 | $XXX | $XXX |
+| Storage | $400 | $XXX | $XXX |
+| Motherboard | $600 | $XXX | $XXX |
+| Case | $400 | $XXX | $XXX |
+| Cooling | $200 | $XXX | $XXX |
+| PSU | $300 | $XXX | $XXX |
+| **Total** | **$5200** | **$XXX** | **$XXX** |
 
 ---
 
