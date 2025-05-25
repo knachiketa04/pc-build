@@ -27,16 +27,20 @@
 ## 🎯 Build Overview
 
 ### Primary Use Case
-<!-- Describe what this PC will be used for (gaming, workstation, streaming, etc.) -->
+- Gaming
+- Productivity
+- AI
 
 ### Performance Goals
 <!-- List your target performance metrics -->
-- **Gaming:** Target resolution and frame rates
-- **Productivity:** Specific workloads and requirements
-- **Other:** Any special use cases
+- **Gaming:** 1440p 240hz
+- **Productivity:** Video Editing
+- **AI:** AI Workloads
 
 ### Design Philosophy
 <!-- Explain your approach: performance-focused, budget-conscious, aesthetics-first, etc. -->
+- Performance-focused
+- SFF (Small Form Factor)
 
 ---
 
