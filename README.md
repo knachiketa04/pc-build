@@ -62,14 +62,14 @@
 
 ## 🔧 Components
 
-- **CPU:** [AMD Ryzen 7 7800X3D](components/cpu.md)
-- **Memory (RAM):** [G.Skill Trident Z5 RGB 32GB DDR5-6000](components/ram.md)
-- **Storage:** [Samsung 990 Pro 2TB NVMe SSD](components/storage.md)
-- **Graphics Card (GPU):** [NVIDIA GeForce RTX 4080 Super](components/gpu.md)
-- **Motherboard:** [ASUS ROG Strix X670E-E Gaming WiFi](components/motherboard.md)
-- **Case:** [Fractal Design Meshify 2](components/case.md)
-- **Cooling:** [Noctua NH-D15 chromax.black](components/cooling.md)
-- **Power Supply Unit (PSU):** [Corsair RM850x Shift 850W 80+ Gold](components/psu.md)
+- **CPU:** [AMD Ryzen 9 9950X3D](components/cpu.md)
+- **Memory (RAM):** [*waiting*](components/ram.md)
+- **Storage:** [*waiting*](components/storage.md)
+- **Graphics Card (GPU):** [*waiting*](components/gpu.md)
+- **Motherboard:** [*waiting*](components/motherboard.md)
+- **Case:** [*waiting*](components/case.md)
+- **Cooling:** [*waiting*](components/cooling.md)
+- **Power Supply Unit (PSU):** [*waiting*](components/psu.md)
 
 ---
 
