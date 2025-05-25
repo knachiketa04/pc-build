@@ -169,8 +169,7 @@
 
 ---
 
-**Last Updated:** *[Date]*  
-**Build Status:** *Planning / In Progress / Complete*
+**Build Status:** *Planning*
 
 ---
 
