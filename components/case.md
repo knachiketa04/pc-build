@@ -1,5 +1,7 @@
 # NCASE M2 - Grater (Silver)
 
+![NCASE M2 - Grater (Silver)](images/ncase-m2-grater-silver.webp "NCASE M2 - Grater (Silver)")
+
 ## Details
 - **Link:** [Product Page](https://ncased.com/collections/m-series/products/m2-grater?variant=49330065014952)
 - **MSRP (Converted to SGD):** $333.91
