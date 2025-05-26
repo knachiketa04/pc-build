@@ -1,36 +1,34 @@
-# Fractal Design Meshify 2
+# NCASE M2 - Grater (Silver)
 
-**Link:** [Product Page](https://www.fractal-design.com/products/cases/meshify/meshify-2/black/)
+## Details
+- **Link:** [Product Page](https://ncased.com/collections/m-series/products/m2-grater?variant=49330065014952)
+- **MSRP (Converted to SGD):** $333.91
 
 ## Why Selected
-- Excellent airflow and modularity
-- Spacious interior for large GPUs and radiators
-- Clean aesthetics and easy cable management
+- Beautiful apple-like design
+- High quality SFF case
+- Though being an SFF case, it has enough space to fit high-end parts
 
 ## Specifications
-- Form Factor: Mid Tower
-- Dimensions: 542 x 240 x 474 mm
-- GPU Clearance: 491 mm
-- CPU Cooler Clearance: 185 mm
+- Form Factor: Mini-ITX
+- Dimensions:
+    - Without feet/protrusions/screws: 16.6cm x 25.8cm x 36.6cm
+    - Including feet/protrusions/screws: 16.6cm x 26.2cm x 37.2cm
+- GPU Clearance: 
+    - Classic Config: 359mm long, 148mm tall, 4 slots
+    - Flipped Config: 359mm long, 148mm tall, 4 slots
+    - VGPU Config: 359mm long, 175mm tall, 4 slots
+- CPU Cooler Clearance:
+    - Classic Config: 144.8mm
+    - Flipped Config: 144.8mm
+    - VGPU Config: 50mm for 4 slot graphics cards, 70mm for 3 slot graphics cards
 - Drive Bays: 6 x 3.5", 2 x 2.5"
 
 ---
 
 ## Considered Competitors
 
-### Lian Li PC-O11 Dynamic
-- **Form Factor:** Mid Tower
-- **GPU Clearance:** 446 mm
-- **Pros:** Great for custom water cooling, stylish
-- **Cons:** Less airflow out of the box
-- **Reasoning:** Considered for looks, but Meshify 2 had better airflow for air cooling.
-
-### NZXT H7 Flow
-- **Form Factor:** Mid Tower
-- **GPU Clearance:** 400 mm
-- **Pros:** Good airflow, clean design
-- **Cons:** Slightly less modular
-- **Reasoning:** Considered for price, but Meshify 2 offered more flexibility.
+*None*
 
 ---
 
