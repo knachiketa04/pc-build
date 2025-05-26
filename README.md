@@ -66,7 +66,7 @@
 - **Memory (RAM):** [*waiting*](components/ram.md)
 - **Storage:** [*waiting*](components/storage.md)
 - **Graphics Card (GPU):** [*waiting*](components/gpu.md)
-- **Motherboard:** [*waiting*](components/motherboard.md)
+- **Motherboard:** [ASUS ROG STRIX X670E-I GAMING WIFI](components/motherboard.md)
 - **Case:** [*waiting*](components/case.md)
 - **Cooling:** [*waiting*](components/cooling.md)
 - **Power Supply Unit (PSU):** [*waiting*](components/psu.md)

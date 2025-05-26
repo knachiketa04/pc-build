@@ -2,7 +2,7 @@
 
 ## Details
 - **Link:** [Product Page](https://www.amd.com/en/products/processors/desktops/ryzen/9000-series/amd-ryzen-9-9950x3d.html)
-- **MSRP (Converted to SGD)**: $897.31
+- **MSRP (Converted to SGD):** $897.31
 
 ## Why Selected
 - 3D V-cache
