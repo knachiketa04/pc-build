@@ -1,5 +1,7 @@
 # AMD Ryzen 9 9950X3D
 
+![AMD Ryzen 9 9950X3D](images/amd-ryzen-9-9950x3d.jpeg "AMD Ryzen 9 9950X3D")
+
 ## Details
 - **Link:** [Product Page](https://www.amd.com/en/products/processors/desktops/ryzen/9000-series/amd-ryzen-9-9950x3d.html)
 - **MSRP (Converted to SGD):** $897.31
