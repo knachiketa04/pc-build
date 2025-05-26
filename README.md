@@ -49,14 +49,14 @@
 | Category | Budget | Actual | Savings/Overage |
 |----------|--------|--------|------------------|
 | CPU | $900 | $XXX | $XXX |
-| GPU | $2000 | $XXX | $XXX |
+| GPU | $3000 | $XXX | $XXX |
 | RAM | $400 | $XXX | $XXX |
 | Storage | $400 | $XXX | $XXX |
 | Motherboard | $600 | $XXX | $XXX |
 | Case | $400 | $XXX | $XXX |
 | Cooling | $200 | $XXX | $XXX |
 | PSU | $300 | $XXX | $XXX |
-| **Total** | **$5200** | **$XXX** | **$XXX** |
+| **Total** | **$6200** | **$XXX** | **$XXX** |
 
 ---
 
@@ -166,10 +166,9 @@
 
 ## 📚 Resources & References
 
-- [📝 PC Build Research Guide](references/pc-build-research-guide.md)
+- [PC Build Research Guide](references/pc-build-research-guide.md)
 - [PC Part Picker Build](link-to-pcpartpicker)
-- [Component Reviews & Benchmarks](#)
-- [Build Guides & Tutorials](#)
+- [Best Ryzen Motherboard 2025 YouTube Video](https://www.youtube.com/watch?v=VLh3OZ4TTPQ)
 
 ---
 
