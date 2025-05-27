@@ -49,7 +49,7 @@
 | Category | Budget | Actual | Savings/Overage |
 |----------|--------|--------|------------------|
 | CPU | $900 | $XXX | $XXX |
-| GPU | $3000 | $XXX | $XXX |
+| GPU | $3200 | $XXX | $XXX |
 | RAM | $400 | $XXX | $XXX |
 | Storage | $400 | $XXX | $XXX |
 | Motherboard | $600 | $XXX | $XXX |

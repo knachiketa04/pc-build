@@ -1,29 +1,35 @@
-# ASUS ROG STRIX X670E-I GAMING WIFI
+# ASUS ROG STRIX X870-I GAMING WIFI
 
-![ASUS ROG STRIX X670E-I GAMING WIFI](images/asus-rog-strix-x670e-i-gaming-wifi.png "ASUS ROG STRIX X670E-I GAMING WIFI")
+![ASUS ROG STRIX X870-I GAMING WIFI](images/asus-rog-strix-x870-i-gaming-wifi.png "ASUS ROG STRIX X870-I GAMING WIFI")
 
 ## Details
 - **Link:** [Product Page](https://rog.asus.com/sg/motherboards/rog-strix/rog-strix-x670e-i-gaming-wifi-model/)
-- **MSRP (Converted to SGD):** $603.56
+- **MSRP (Converted to SGD):** $578.22
 
 ## Why Selected
 - It looks amazing
 - High number of I/O ports for maximum connectivity
+- Support for a high amount of RAM
 
 ## Specifications
-- Chipset: AMD X670
+- Chipset: AMD X870
 - Socket: AM5
 - Form Factor: Mini-ITX
-- RAM Slots: 2 (Max 96GB)
-- Expansion: 1 x PCIe 5.0 x16 slot(s)
+- RAM Slots: 2 (Max 128GB)
+- Expansion: 
+    - AMD Ryzen™ 9000 & 7000 Series Desktop Processors
+    - 1 x PCIe 5.0 x16 slot(s)
+    - AMD Ryzen™ 8000 Series Desktop Processors
+    - 1 x PCIe 4.0 x16 slot (supports x8/x4 mode) Specifications vary by CPU types.
 - I/O:
-    - 2 x USB4® port(s) with Intel® JHL8540 USB4®
-controller (2 x USB Type-C®) 
-    - 5 x USB 3.2 Gen 2 port(s) (5 x Type-A) (1 port supports ROG STRIX HIVE)
-    - 3 x USB 2.0 port(s) (3 x Type-A) 
-    - 1 x HDMI® port
-    - 1 x Wi-Fi Module
-    - 1 x Intel® I225-V 2.5Gb Ethernet port
+    - 2 x USB4® (40Gbps)(2 x USB Type-C®) 
+    - 5 x USB 10Gbps port(s) (4 x Type-A + 1 x USB Type-C®, 1 port supports ROG STRIX HIVE II)
+    - 3 x USB 2.0 port(s) (2 x Type-A) 
+    - 1 x HDMI™ port
+    - 1 x Wi-Fi module
+    - 1 x Intel® 2.5Gb Ethernet port
+    - 1 x BIOS FlashBack™ button 
+    - 1 x Clear CMOS button
 
 ---
 
