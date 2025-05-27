@@ -3,8 +3,8 @@
 ![ASUS ROG STRIX X870-I GAMING WIFI](images/asus-rog-strix-x870-i-gaming-wifi.png "ASUS ROG STRIX X870-I GAMING WIFI")
 
 ## Details
-- **Link:** [Product Page](https://rog.asus.com/sg/motherboards/rog-strix/rog-strix-x670e-i-gaming-wifi-model/)
-- **MSRP (Converted to SGD):** $578.22
+- **Link:** [Product Page](https://rog.asus.com/sg/motherboards/rog-strix/rog-strix-x870-i-gaming-wifi-model/)
+- **Price:** S$701 (from [amazon link](https://www.amazon.sg/ASUS-STRIX-X870-I-GAMING-WIFI/dp/B0DDZWJ1KX))
 
 ## Why Selected
 - It looks amazing
@@ -15,7 +15,7 @@
 - Chipset: AMD X870
 - Socket: AM5
 - Form Factor: Mini-ITX
-- RAM Slots: 2 (Max 128GB)
+- RAM Slots: 2 (Max 128GB DDR5)
 - Expansion: 
     - AMD Ryzen™ 9000 & 7000 Series Desktop Processors
     - 1 x PCIe 5.0 x16 slot(s)
@@ -37,7 +37,7 @@
 
 ### GIGABYTE X870I AORUS PRO ICE (rev. 1.1)
 - **Link**: [Product Page](https://www.gigabyte.com/Motherboard/X870I-AORUS-PRO-ICE-rev-11)
-- **MSRP (Converted to SGD):** $385.22
+- **Price:** S$463 (from [amazon link](https://www.amazon.sg/GIGABYTE-X870I-AORUS-PRO-ICE/dp/B083WG2VDF/) )
 - **Chipset:** X870
 - **Socket:** AM5
 - **Form Factor:** Mini-ITX

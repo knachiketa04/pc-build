@@ -4,7 +4,7 @@
 
 ## Details
 - **Link:** [Product Page](https://www.amd.com/en/products/processors/desktops/ryzen/9000-series/amd-ryzen-9-9950x3d.html)
-- **MSRP (Converted to SGD):** $897.31
+- **Price:** S$862 (from [amazon link](https://www.amazon.sg/AMD-9950X-Processor-Unbridled-Architecture/dp/B0D6NNRBGP/?th=1))
 
 ## Why Selected
 - 3D V-cache
@@ -24,7 +24,7 @@
 
 ### AMD Ryzen 7 9800X3D
 - **Link**: [Product Page](https://www.amd.com/en/products/processors/desktops/ryzen/9000-series/amd-ryzen-7-9800x3d.html)
-- - **MSRP (Converted to SGD)**: $615.44
+- - **Price**: S$615.44
 - **Cores/Threads:** 8/16
 - **Base/Max Boost Clock:** 4.7 GHz / 5.2 GHz
 - **TDP:** 120W
@@ -35,7 +35,7 @@
 
 ### Intel Core i9 14900K
 - **Link**: [Product Page](https://www.intel.com/content/www/us/en/products/sku/236773/intel-core-i9-processor-14900k-36m-cache-up-to-6-00-ghz/specifications.html)
-- **MSRP (Converted to SGD)**: $756.77
+- **Price**: S$756.77 (from [amazon link](https://www.amazon.sg/i9-14900K-Desktop-Processor-P-cores-BX8071514900K/dp/B0CHBJGFBC/))
 - **Cores/Threads:** 24/32
 - **Base/Max Boost Clock:**
     - Performance Cores: 3.2 GHz / 5.6 GHz

@@ -4,7 +4,7 @@
 
 ## Details
 - **Link:** [Product Page](https://ncased.com/collections/m-series/products/m2-grater?variant=49330065014952)
-- **MSRP (Converted to SGD):** $333.91
+- **Price:** $334 (from above product page)
 
 ## Why Selected
 - Beautiful apple-like design
