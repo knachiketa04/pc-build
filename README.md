@@ -48,15 +48,15 @@
 
 | Category | Budget | Actual | Savings/Overage |
 |----------|--------|--------|------------------|
-| CPU | $900 | $XXX | $XXX |
-| GPU | $3200 | $XXX | $XXX |
-| RAM | $400 | $XXX | $XXX |
-| Storage | $400 | $XXX | $XXX |
-| Motherboard | $600 | $XXX | $XXX |
-| Case | $400 | $XXX | $XXX |
-| Cooling | $200 | $XXX | $XXX |
-| PSU | $300 | $XXX | $XXX |
-| **Total** | **$6200** | **$XXX** | **$XXX** |
+| CPU | S$900 | S$862 | S$38 |
+| GPU | S$3200 | S$XXX | S$XXX |
+| RAM | S$400 | S$XXX | S$XXX |
+| Storage | S$400 | S$XXX | S$XXX |
+| Motherboard | S$600 | S$701 | -S$101 |
+| Case | S$400 | S$334 | S$66 |
+| Cooling | S$200 | S$XXX | S$XXX |
+| PSU | S$300 | S$XXX | S$XXX |
+| **Total** | **S$6200** | **S$XXX** | **S$XXX** |
 
 ---
 
