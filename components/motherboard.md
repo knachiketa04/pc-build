@@ -1,6 +1,6 @@
 # ASUS ROG STRIX X870E-E GAMING WIFI
 
-![ASUS ROG STRIX X870E-E GAMING WIFI](images/asus-rog-strix-x870e-e-gaming-wifi.jpg "ASUS ROG STRIX X870E-E GAMING WIFI")
+![ASUS ROG STRIX X870E-E GAMING WIFI](images/asus-rog-strix-x870e-e-gaming-wifi.png "ASUS ROG STRIX X870E-E GAMING WIFI")
 
 ## Details
 - **Link:** [Product Page](https://rog.asus.com/sg/motherboards/rog-strix/rog-strix-x870e-e-gaming-wifi/)
