@@ -1,36 +1,37 @@
-# NCASE M2 - Grater (Silver)
+# HYTE Y70 Touch Infinite
 
-![NCASE M2 - Grater (Silver)](images/ncase-m2-grater-silver.webp "NCASE M2 - Grater (Silver)")
+![HYTE Y70 Touch Infinite](images/hyte-y70-touch-infinite.webp "HYTE Y70 Touch Infinite")
 
 ## Details
-- **Link:** [Product Page](https://ncased.com/collections/m-series/products/m2-grater?variant=49330065014952)
-- **Price:** $334 (from above product page)
+- **Link:** [Product Page](https://hyte.com/store/y70/cs-hyte-y70tti-bb)
+- **Price:** $439.99
 
 ## Why Selected
-- Beautiful apple-like design
-- High quality SFF case
-- Though being an SFF case, it has enough space to fit high-end parts
+- Innovative touch screen interface for easy control
+- Spacious interior for high-end components
+- Excellent airflow design for optimal cooling
 
 ## Specifications
-- Form Factor: Mini-ITX
-- Dimensions:
-    - Without feet/protrusions/screws: 16.6cm x 25.8cm x 36.6cm
-    - Including feet/protrusions/screws: 16.6cm x 26.2cm x 37.2cm
-- GPU Clearance: 
-    - Classic Config: 359mm long, 148mm tall, 4 slots
-    - Flipped Config: 359mm long, 148mm tall, 4 slots
-    - VGPU Config: 359mm long, 175mm tall, 4 slots
-- CPU Cooler Clearance:
-    - Classic Config: 144.8mm
-    - Flipped Config: 144.8mm
-    - VGPU Config: 50mm for 4 slot graphics cards, 70mm for 3 slot graphics cards
-- Drive Bays: 6 x 3.5", 2 x 2.5"
+- Form Factor: Dual Chamber Mid-Tower ATX Case
+- Dimensions: 470 x 320 x 470 mm
+- GPU Clearance: 422 mm
+- CPU Cooler Clearance: 180 mm
+- Drive Bays: 2x 3.5" HDD or 4x 2.5" SSD
 
 ---
 
 ## Considered Competitors
 
-*None*
+### NCASE M2 - Grater (Silver)
+- **Form Factor:** Mini-ITX
+- **GPU Clearance:** 
+    - Classic Config: 359mm long, 148mm tall, 4 slots
+    - Flipped Config: 359mm long, 148mm tall, 4 slots
+    - VGPU Config: 359mm long, 175mm tall, 4 slots
+- **Drive Bays:** 6 x 3.5", 2 x 2.5"
+- **Pros:** Beautiful apple-like design, High quality SFF case
+- **Cons:** Not future-proof and limited RAM amount due to form factor
+- **Reasoning:** Being an SFF case, it only has limited compatibility with parts and is less future-proof
 
 ---
 
