@@ -53,7 +53,7 @@
 | RAM | S$400 | S$XXX | S$XXX |
 | Storage | S$400 | S$XXX | S$XXX |
 | Motherboard | S$600 | S$701 | -S$101 |
-| Case | S$400 | S$334 | S$66 |
+| Case | S$400 | S$439.99 | -S$39.99 |
 | Cooling | S$200 | S$XXX | S$XXX |
 | PSU | S$300 | S$XXX | S$XXX |
 | **Total** | **S$6200** | **S$XXX** | **S$XXX** |
@@ -67,7 +67,7 @@
 - **Storage:** [*waiting*](components/storage.md)
 - **Graphics Card (GPU):** [*waiting*](components/gpu.md)
 - **Motherboard:** [ASUS ROG STRIX X670E-I GAMING WIFI](components/motherboard.md)
-- **Case:** [NCASE M2 - Grater (Silver)](components/case.md)
+- **Case:** [HYTE Y70 Touch Infinite](components/case.md)
 - **Cooling:** [*waiting*](components/cooling.md)
 - **Power Supply Unit (PSU):** [*waiting*](components/psu.md)
 

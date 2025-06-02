@@ -1,49 +1,31 @@
-# ASUS ROG STRIX X870-I GAMING WIFI
+# [Motherboard Name]
 
-![ASUS ROG STRIX X870-I GAMING WIFI](images/asus-rog-strix-x870-i-gaming-wifi.webp "ASUS ROG STRIX X870-I GAMING WIFI")
+![Motherboard Image](images/[motherboard-image].webp "[Motherboard Name]")
 
 ## Details
-- **Link:** [Product Page](https://rog.asus.com/sg/motherboards/rog-strix/rog-strix-x870-i-gaming-wifi-model/)
-- **Price:** S$701 (from [amazon link](https://www.amazon.sg/ASUS-STRIX-X870-I-GAMING-WIFI/dp/B0DDZWJ1KX))
+- **Link:** [Product Page](#)
+- **Price:** $[Price]
 
 ## Why Selected
-- It looks amazing
-- High number of I/O ports for maximum connectivity
-- Support for a high amount of RAM
+- [Reason 1]
+- [Reason 2]
+- [Reason 3]
 
 ## Specifications
-- Chipset: AMD X870
-- Socket: AM5
-- Form Factor: Mini-ITX
-- RAM Slots: 2 (Max 128GB DDR5)
+- Chipset: [Chipset]
+- Socket: [Socket]
+- Form Factor: [Form Factor]
+- RAM Slots: [RAM Slots]
 - Expansion: 
-    - AMD Ryzen™ 9000 & 7000 Series Desktop Processors
-    - 1 x PCIe 5.0 x16 slot(s)
-    - AMD Ryzen™ 8000 Series Desktop Processors
-    - 1 x PCIe 4.0 x16 slot (supports x8/x4 mode) Specifications vary by CPU types.
+    - [Expansion Details]
 - I/O:
-    - 2 x USB4® (40Gbps)(2 x USB Type-C®) 
-    - 5 x USB 10Gbps port(s) (4 x Type-A + 1 x USB Type-C®, 1 port supports ROG STRIX HIVE II)
-    - 3 x USB 2.0 port(s) (2 x Type-A) 
-    - 1 x HDMI™ port
-    - 1 x Wi-Fi module
-    - 1 x Intel® 2.5Gb Ethernet port
-    - 1 x BIOS FlashBack™ button 
-    - 1 x Clear CMOS button
+    - [I/O Details]
 
 ---
 
 ## Considered Competitors
 
-### GIGABYTE X870I AORUS PRO ICE (rev. 1.1)
-- **Link**: [Product Page](https://www.gigabyte.com/Motherboard/X870I-AORUS-PRO-ICE-rev-11)
-- **Price:** S$463 (from [amazon link](https://www.amazon.sg/GIGABYTE-X870I-AORUS-PRO-ICE/dp/B083WG2VDF/) )
-- **Chipset:** X870
-- **Socket:** AM5
-- **Form Factor:** Mini-ITX
-- **Pros:** WiFi 7 support, low price for a high-end Mini-ITX motherboard
-- **Cons:** Not an extensive number of I/O ports
-- **Reasoning:** Good motherboard overall but lacking I/O ports
+*None*
 
 ---
 
@@ -51,7 +33,7 @@
 
 ### [Competitor Name]
 - **Link**: [Product Page](#)
-- **MSRP (Converted to SGD):**
+- **Price:**
 - **Chipset:**
 - **Socket:**
 - **Form Factor:**

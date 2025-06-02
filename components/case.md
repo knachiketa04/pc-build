@@ -1,6 +1,6 @@
 # HYTE Y70 Touch Infinite
 
-![HYTE Y70 Touch Infinite](images/hyte-y70-touch-infinite.webp "HYTE Y70 Touch Infinite")
+![HYTE Y70 Touch Infinite](images/hyte-y70-touch-infinite.avif "HYTE Y70 Touch Infinite")
 
 ## Details
 - **Link:** [Product Page](https://hyte.com/store/y70/cs-hyte-y70tti-bb)
@@ -10,6 +10,7 @@
 - Innovative touch screen interface for easy control
 - Spacious interior for high-end components
 - Excellent airflow design for optimal cooling
+- Comes with vertical GPU mount preinstalled
 
 ## Specifications
 - Form Factor: Dual Chamber Mid-Tower ATX Case
