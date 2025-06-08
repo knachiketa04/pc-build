@@ -1,6 +1,6 @@
 # 
 
-![Prduct Name](image/link "Product Name")
+![Prduct Name](image/link)
 
 ## Details
 - **Link:** [Product Page](url)

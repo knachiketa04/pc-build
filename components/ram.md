@@ -1,6 +1,6 @@
 # G.Skill Trident Z5 Neo RGB DDR5-6000 CL30-36-36-96 1.35V 96GB (2x48GB) AMD EXPO
 
-![G.Skill Trident Z5 Neo RGB DDR5-6000 CL30-36-36-96 1.35V 96GB (2x48GB) AMD EXPO](./images/g.skill-trident-z5-neo-rgb-ddr5-6000-cl30-96gb.webp "G.Skill Trident Z5 Neo RGB DDR5-6000 CL30-36-36-96 1.35V 96GB (2x48GB) AMD EXPO")
+![G.Skill Trident Z5 Neo RGB DDR5-6000 CL30-36-36-96 1.35V 96GB (2x48GB) AMD EXPO](images/g.skill-trident-z5-neo-rgb-ddr5-6000-cl30-96gb.webp)
 
 ## Details
 - **Link:** [Product Page](https://www.gskill.com/product/165/390/1742459167/F5-6000J3036F48GX2-TZ5NR)

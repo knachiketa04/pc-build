@@ -64,7 +64,7 @@
 
 - **CPU:** [AMD Ryzen 9 9950X3D](components/cpu.md)
 - **Memory (RAM):** [G.Skill Trident Z5 Neo RGB DDR5-6000 CL30 96GB (2x46GB) AMD EXPO](components/ram.md)
-- **Storage:** [*waiting*](components/storage.md)
+- **Storage:** [Samsung 9100 PRO NVMe™ M.2 SSD 4TB](components/storage.md)
 - **Graphics Card (GPU):** [*waiting*](components/gpu.md)
 - **Motherboard:** [ASUS ROG STRIX X870E-E GAMING WIFI](components/motherboard.md)
 - **Case:** [HYTE Y70 Touch Infinite](components/case.md)

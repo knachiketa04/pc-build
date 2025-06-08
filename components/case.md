@@ -1,6 +1,6 @@
 # HYTE Y70 Touch Infinite
 
-![HYTE Y70 Touch Infinite](images/hyte-y70-touch-infinite.avif "HYTE Y70 Touch Infinite")
+![HYTE Y70 Touch Infinite](images/hyte-y70-touch-infinite.avif)
 
 ## Details
 - **Link:** [Product Page](https://hyte.com/store/y70/cs-hyte-y70tti-bb)

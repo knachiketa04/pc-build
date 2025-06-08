@@ -1,37 +1,33 @@
-# Samsung 990 Pro 2TB NVMe SSD
+# Samsung 9100 PRO NVMe™ M.2 SSD 4TB 
 
-**Link:** [Product Page](https://semiconductor.samsung.com/consumer-storage/990-pro/)
+![Samsung 9100 PRO NVMe™ M.2 SSD 4TB](images/samsung-9100-pro-nvme-m2-ssd.avif)
+
+## Details
+- **Link:** [Product Page](https://www.samsung.com/sg/memory-storage/nvme-ssd/9100-pro-4tb-nvme-pcie-gen-5-mz-vap4t0bw/)
+- **Price:** S$749 (from product page)
 
 ## Why Selected
-- Top-tier PCIe Gen4 performance
+- Top-tier PCIe Gen5 performance
 - Excellent endurance and reliability
-- Widely recommended for gaming and productivity
 
 ## Specifications
-- Type: NVMe SSD (PCIe Gen4)
-- Capacity: 2TB
-- Sequential Read/Write: 7,450/6,900 MB/s
+- Type: NVMe SSD (PCIe Gen5)
+- Capacity: 4TB
+- Sequential Read/Write: 14,800/13,400 MB/s
+- Random Read/Write: 2,200,000/2,600,000 IOPS
 - DRAM Cache: Yes
 
 ---
 
 ## Considered Competitors
 
-### WD Black SN850X 2TB
-- **Type:** NVMe SSD (PCIe Gen4)
-- **Capacity:** 2TB
-- **Read/Write:** 7,300/6,600 MB/s
-- **Pros:** Similar performance, good software
-- **Cons:** Slightly higher temps
-- **Reasoning:** Considered for similar performance, but Samsung had better reviews and lower temps.
-
-### Crucial P5 Plus 2TB
-- **Type:** NVMe SSD (PCIe Gen4)
-- **Capacity:** 2TB
-- **Read/Write:** 6,600/5,000 MB/s
-- **Pros:** Lower price
-- **Cons:** Lower sustained write speeds
-- **Reasoning:** Considered for budget, but Samsung offered better all-around performance.
+### Crucial T710 SSD 4TB
+- **Type:** NVMe SSD (PCIe Gen5)
+- **Capacity:** 4TB
+- **Read/Write:** 14,900/13,800 MB/s
+- **Pros:** Offering high speeds
+- **Cons:** Not released yet, less reputation compared to other competitors
+- **Reasoning:** Though offering high speeds, is isn't released yet and not worth the wait as it performs similarly to the chosen SSD
 
 ---
 
