@@ -25,9 +25,11 @@
 - **Type:** NVMe SSD (PCIe Gen5)
 - **Capacity:** 4TB
 - **Read/Write:** 14,900/13,800 MB/s
+- **Random Read/Write:** 2.2M/2.3M IOPS
 - **Pros:** Offering high speeds
 - **Cons:** Not released yet, less reputation compared to other competitors
 - **Reasoning:** Though offering high speeds, is isn't released yet and not worth the wait as it performs similarly to the chosen SSD
+- **Notes:** No product link or price avalible yet
 
 ---
 
