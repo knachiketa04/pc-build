@@ -4,17 +4,17 @@
 
 ## 📋 Table of Contents
 - [🎯 Build Overview](#-build-overview)
-- [💰 Budget & Pricing](#-budget--pricing)
+- [💰 Budget & Pricing](#-budget--pricing-sgd)
 - [📝 Research Guide](references/pc-build-research-guide.md)
 - [🔧 Components](#-components)
-  - [⚡ CPU](#-cpu)
-  - [🧠 Memory (RAM)](#-memory-ram)
-  - [💾 Storage](#-storage)
-  - [🎮 Graphics Card (GPU)](#-graphics-card-gpu)
-  - [🏠 Case](#-case)
-  - [❄️ Cooling](#️-cooling)
-  - [⚡ Power Supply Unit (PSU)](#-power-supply-unit-psu)
-  - [🔌 Motherboard](#-motherboard)
+  - [⚡ CPU](components/cpu.md)
+  - [🧠 Memory (RAM)](components/ram.md)
+  - [💾 Storage](components/storage.md)
+  - [🎮 Graphics Card (GPU)](components/gpu.md)
+  - [🔌 Motherboard](components/motherboard.md)
+  - [🏠 Case](components/case.md)
+  - [❄️ Cooling](components/cooling.md)
+  - [⚡ Power Supply Unit (PSU)](components/psu.md)
 - [🔗 Compatibility Matrix](#-compatibility-matrix)
 - [📊 Performance Expectations](#-performance-expectations)
 - [🛠️ Build Process](#️-build-process)
@@ -48,9 +48,9 @@
 | Category | Budget | Actual | Savings/Overage |
 |----------|--------|--------|------------------|
 | CPU | S$900 | S$862 | S$38 |
-| GPU | S$3200 | S$XXX | S$XXX |
 | RAM | S$400 | S$XXX | S$XXX |
 | Storage | S$400 | S$XXX | S$XXX |
+| GPU | S$3200 | S$XXX | S$XXX |
 | Motherboard | S$600 | S$900 | -S$300 |
 | Case | S$400 | S$439.99 | -S$39.99 |
 | Cooling | S$200 | S$XXX | S$XXX |
