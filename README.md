@@ -1,4 +1,4 @@
-# 🖥️ PC Building Project (Work In Progress/ Draft)
+# 🖥️ PC Building Project (WIP/Draft)
 
 > A comprehensive research-driven PC build with detailed analysis and reasoning for each component selection.
 
