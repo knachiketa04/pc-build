@@ -27,9 +27,8 @@
 ## 🎯 Build Overview
 
 ### Primary Use Case
-- Gaming
-- Productivity
 - AI
+- Gaming
 
 ### Performance Goals
 <!-- List your target performance metrics -->
